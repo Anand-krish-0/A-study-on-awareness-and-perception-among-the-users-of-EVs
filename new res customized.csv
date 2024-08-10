@@ -1,0 +1,202 @@
+,Name,Gender,Age,Employment Status,Education Qualification ,District,Area of Residence,type of vehicle,EV,1.1 current awareness,1.2 current awareness,1.3 current awareness,1.4 current awareness,2.1 user satisfaction,2.2 user satisfaction,2.3 user satisfaction,2.4 user satisfaction,2.5 user satisfaction,3.1 charging facilities,3.2 charging facilities,3.3 charging facilities,3.4 charging facilities,4.1 cost consideration,4.2 cost consideration,4.3 cost consideration,4.4 cost consideration,4.5 cost consideration,5.1 consumer preference,5.2 consumer preference,5.3 consmer preference,5.4 consumer preference,5.5 consumer preference,6.1 evm consideration,6.2 evm consideration,6.3 evm consideration,6.4 evm consideration
+0,Anish Glorisha ,Female,18 - 27,Student,Post Graduate,Coimbatore ,Urban,Petrol,No,3,3,2,2,4,2,3,3,3,3,3,2,4,2,2,Both are same,3,4,4,4,4,3,4,3,3,4,3
+1,Hari,Male,18 - 27,Student,Post Graduate,coimbatore,Rural,Diesel,Yes,4,3,1,2,2,3,1,2,1,3,4,2,2,2,Both are same,2,2,2,1,1,3,3,3,1,2,2,4
+2,CHINNAPPANDI J ,Male,18 - 27,Student,Post Graduate,coimbatore,Rural,Petrol,Yes,2,5,3,2,2,4,2,4,2,3,2,3,1,5,4,Both are same,4,1,4,2,4,3,2,4,4,5,5
+3,P. Manikandan,Male,18 - 27,Student,Post Graduate,Viruthunagar,Urban,Diesel,Yes,1,1,4,3,3,2,2,3,2,1,4,2,1,5,4,Both are same,2,3,3,1,3,2,2,3,4,4,3
+4,Divyasri ,Female,18 - 27,Student,Post Graduate,Dharmapuri ,Urban,Petrol,No,4,3,4,3,4,5,4,2,4,2,4,4,4,2,2,Both are same,2,4,4,2,2,3,2,2,3,4,3
+5,Anurahini P,Female,18 - 27,Student,Post Graduate,Coimbatore ,Urban,Diesel,No,3,3,4,3,3,3,3,3,3,3,2,2,3,3,Both are same,Both are same,3,3,3,3,3,3,3,3,3,3,3
+6,Anandakrishnan N ,Male,18 - 27,Student,Post Graduate,Pudukkottai ,Urban,Petrol,No,4,3,4,5,4,4,3,3,4,2,2,2,5,2,4,2,2,2,4,4,3,3,3,5,5,5,5
+7,Subburaj ,Male,18 - 27,Student,School,Coimbatore ,Urban,Petrol,Yes,2,3,4,3,2,5,2,4,2,1,1,1,2,2,Both are same,2,1,3,4,3,3,2,3,4,4,4,4
+8,Gopinath.E,Male,18 - 27,Student,Post Graduate,Ranipet,Rural,Petrol,No,4,4,4,3,4,5,4,4,2,4,4,1,4,4,4,4,2,3,4,4,4,4,4,2,3,4,3
+9,P. Balakrishnan ,Male,18 - 27,Student,Post Graduate,Coimbatore ,Urban,Petrol,No,3,3,3,4,4,1,5,3,4,3,1,2,3,1,4,2,1,3,2,3,3,4,5,5,5,5,5
+10,Anisha R,Female,18 - 27,Unemployed,Under Graduate,Nilgiris ,Urban,Petrol,No,4,3,3,3,4,2,4,4,1,3,2,3,2,4,Both are same,4,4,3,4,3,4,3,3,3,3,2,5
+11,ravichandhiranNataraj ,Male,18 - 27,Employed,Under Graduate,Coimbatore ,Rural,Petrol,No,4,4,1,4,4,5,3,2,4,3,3,3,3,3,Both are same,4,3,2,1,3,2,3,3,4,2,2,2
+12,PRAVINRAJ L ,Male,18 - 27,Student,Post Graduate,Virudhunagar ,Urban,Petrol,No,4,4,4,1,4,1,3,3,4,4,2,1,3,2,2,Both are same,3,4,4,3,3,3,3,3,4,3,3
+13,PIRIYANGA P M ,Female,18 - 27,Student,Post Graduate,Coimbatore ,Urban,Petrol,Yes,4,4,4,3,4,3,4,2,2,3,3,3,4,2,Both are same,Both are same,2,2,3,4,2,3,4,4,3,4,3
+14,Mytheeswaran ,Male,18 - 27,Employed,Under Graduate,Coimbatore ,Urban,Petrol,No,3,3,2,3,3,3,4,4,3,3,2,1,4,2,2,2,2,2,3,2,2,2,3,4,3,3,3
+15,Pavya,Female,28 - 43,Unemployed,Under Graduate,Coimbatore ,Urban,Petrol,No,4,4,3,5,4,5,4,2,5,4,2,2,3,2,4,4,3,3,3,3,2,3,3,2,3,5,3
+16,Rahul .I,Male,18 - 27,Self Employed,Under Graduate,Dharmapuri,Urban,Petrol,No,2,4,5,4,4,2,3,2,4,2,2,3,3,3,Both are same,4,3,5,4,5,3,4,4,3,4,2,3
+17,Dinesh K ,Male,18 - 27,Student,Post Graduate,Coimbatore ,Rural,Petrol,No,4,4,4,4,4,3,3,3,3,3,4,2,4,2,4,Both are same,2,3,3,3,3,3,3,3,3,3,3
+18,NANDHAKUMAR N ,Male,18 - 27,Student,Post Graduate,Coimbatore ,Urban,Petrol,No,4,4,4,5,5,5,4,4,2,3,4,1,5,3,Both are same,4,5,3,4,3,4,5,3,4,4,5,4
+19,Pranav,Male,18 - 27,Student,Under Graduate,Coimbatore ,Urban,Petrol,No,3,3,3,1,1,5,3,3,1,1,1,2,1,3,4,5,4,3,3,3,3,3,3,3,3,3,3
+20,Santhosh s,Male,18 - 27,Student,Post Graduate,Dharmapuri ,Rural,Petrol,No,2,3,3,5,3,5,4,2,4,2,1,1,4,1,4,2,2,3,4,4,1,3,3,4,4,4,5
+21,Kannan S A ,Male,18 - 27,Student,Under Graduate,Dharmapuri ,Urban,Petrol,No,4,3,3,4,4,5,4,3,4,3,2,2,4,2,Both are same,Both are same,2,2,4,4,3,3,4,4,3,4,3
+22,Gugansingh ,Male,28 - 43,Employed,Under Graduate,Erode ,Rural,Petrol,No,4,3,3,2,4,3,3,4,3,3,3,4,3,3,4,Both are same,3,3,4,3,3,3,3,3,3,3,3
+23,Thangaraj B,Male,18 - 27,Student,Post Graduate,Tirunelveli,Urban,Petrol,No,2,3,3,1,2,2,3,1,1,1,3,1,1,2,2,1,2,1,2,4,1,2,3,4,4,4,3
+24,Sandhiya S ,Female,18 - 27,Student,Post Graduate,Dharmapuri ,Rural,Petrol,No,3,3,3,3,2,5,2,4,2,2,2,1,3,4,Both are same,4,2,2,2,2,1,2,1,4,3,4,3
+25,Sandhiya ,Female,18 - 27,Student,Post Graduate,Coimbatore ,Urban,Petrol,No,4,4,4,4,4,5,4,4,4,4,4,2,4,3,4,4,3,3,4,3,4,4,4,3,4,4,4
+26,Pavithra S,Female,18 - 27,Unemployed,Post Graduate,Coimbatore,Urban,Petrol,No,3,4,3,4,4,4,3,4,3,3,2,3,3,3,Both are same,Both are same,3,2,3,3,2,4,3,4,3,4,3
+27,Vasanth ,Male,18 - 27,Student,Post Graduate,Tirupur,Urban,Petrol,No,5,5,3,4,4,5,4,4,4,4,4,4,4,4,Both are same,Both are same,2,2,2,5,3,4,4,4,4,4,3
+28,Sijin Raja SM,Male,18 - 27,Unemployed,Post Graduate,Kanyakumari,Rural,Electric batteries,Yes,5,5,4,3,3,4,5,2,3,3,2,2,4,2,Both are same,2,2,1,5,4,3,3,3,3,3,4,3
+29,Poovarasan S,Male,18 - 27,Student,Doctorate,Coimbatore ,Rural,Petrol,No,4,3,3,4,3,5,2,3,4,1,1,1,3,2,4,Both are same,4,2,2,3,3,2,3,3,3,3,4
+30,Venkatesh ,Male,18 - 27,Employed,Post Graduate,Karur,Urban,Petrol,No,4,3,4,4,4,5,4,3,3,2,4,1,4,3,Both are same,Both are same,3,2,3,4,4,4,4,3,4,5,5
+31,V RAGUL ,Male,18 - 27,Student,Post Graduate,Erode ,Rural,Petrol,No,4,3,3,4,4,5,3,4,4,3,4,2,2,4,4,4,3,3,4,2,4,4,5,4,4,4,5
+32,S.Aravindh,Male,18 - 27,Employed,Under Graduate,Pudukkottai ,Urban,Petrol,No,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+33,Aravinthan,Male,18 - 27,Employed,Under Graduate,Pudukkottai,Urban,Petrol,No,4,4,3,4,4,5,3,4,3,3,3,1,3,3,Both are same,2,4,3,3,3,3,4,3,3,3,4,3
+34,Guhan ,Male,28 - 43,Employed,Post Graduate,Pudukkottai ,Rural,Petrol,No,4,4,5,4,4,5,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+35,Ajay prince ,Male,18 - 27,Employed,Under Graduate,Tiruppur,Urban,Petrol,No,2,4,3,4,3,3,3,3,2,3,2,1,1,2,4,4,4,1,2,3,3,3,3,3,4,3,5
+36,Daniel ,Male,18 - 27,Employed,Under Graduate,Kallakurichi,Rural,Petrol,No,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+37,Thahir,Male,18 - 27,Employed,Under Graduate,Pudukkottai,Urban,Petrol,No,3,3,3,4,4,5,4,3,3,3,3,3,4,3,Both are same,Both are same,3,3,3,4,3,3,2,3,3,3,3
+38,T.Gopi,Male,18 - 27,Employed,School,Pudukkottai ,Rural,Petrol,Yes,4,1,5,4,4,5,4,4,3,4,4,4,3,2,Both are same,4,1,1,2,2,2,3,3,3,4,3,3
+39,Kaviprakaash ,Male,18 - 27,Student,Post Graduate,Salem ,Rural,Petrol,No,3,3,4,4,4,5,4,4,4,4,4,4,4,4,4,4,2,1,3,4,3,5,5,5,5,5,5
+40,Mythili,Female,18 - 27,Employed,Under Graduate,Thanjavur,Urban,Petrol,No,3,4,3,4,4,5,4,4,3,3,3,3,4,2,2,Both are same,3,3,3,3,3,3,4,4,4,4,3
+41,Kaviprakaash,Male,18 - 27,Student,Post Graduate,Salem ,Rural,Petrol,No,4,4,4,5,4,5,4,3,5,4,3,2,3,2,4,Both are same,4,4,4,4,4,4,5,5,5,5,5
+42,M THANGAPANDI. ,Male,44 - 59,Employed,Post Graduate,Dindigul ,Rural,Petrol,No,4,4,4,5,4,5,4,4,4,3,3,1,4,3,Both are same,4,4,3,2,3,4,2,1,5,4,5,5
+43,PASUPATHI 5,Male,18 - 27,Student,Post Graduate,Pudukkottai ,Rural,Petrol,Yes,4,4,3,5,4,4,5,4,2,4,5,2,4,5,4,4,1,3,4,5,4,4,5,3,5,3,5
+44,SARANRAJ R,Male,18 - 27,Student,Post Graduate,Pudukkottai ,Rural,Petrol,No,4,5,4,5,3,3,4,3,2,5,1,1,4,5,Both are same,2,3,3,4,5,3,4,3,5,5,4,5
+45,Vinoth,Male,18 - 27,Student,Post Graduate,Pudukkottai ,Rural,Petrol,Yes,4,4,3,4,4,5,4,4,3,3,4,4,4,4,4,Both are same,4,3,4,4,4,4,4,3,4,4,4
+46,S Thiruvasagam ,Male,18 - 27,Student,Under Graduate,Pudukkottai ,Rural,Petrol,No,3,4,3,5,4,4,4,4,2,2,2,2,2,3,Both are same,2,2,3,2,3,3,3,3,4,5,4,4
+47,Dhinesh,Male,18 - 27,Student,Under Graduate,Salem,Rural,Petrol,No,3,4,3,2,3,5,4,4,2,2,2,2,4,4,4,4,2,2,2,4,3,3,3,3,3,3,3
+48,Aravindhan ,Male,18 - 27,Employed,Diploma,Thanjavur,Rural,Petrol,No,4,3,3,4,3,5,4,4,4,3,2,1,3,2,4,4,4,2,3,4,2,4,3,4,4,5,4
+49,Naveen Kumar.N,Male,18 - 27,Student,Under Graduate,Coimbatore,Rural,Petrol,Yes,4,4,3,4,4,5,4,4,4,4,4,1,4,3,Both are same,Both are same,4,4,4,4,4,4,4,3,2,4,4
+50,Maneesha,Female,18 - 27,Student,Post Graduate,Coimbatore,Rural,Petrol,No,4,4,3,4,3,3,3,3,2,2,2,2,3,4,4,4,3,3,2,2,3,3,3,2,2,3,3
+51,Vimalraj ,Male,18 - 27,Student,Post Graduate,Pudukkottai ,Urban,Petrol,No,4,4,3,4,4,5,4,4,4,4,4,4,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4
+52,GANESAN A,Male,18 - 27,Student,Post Graduate,Trichy,Rural,Petrol,No,4,4,4,4,2,5,4,5,4,3,2,1,4,3,4,Both are same,3,2,5,4,4,2,1,4,4,5,4
+53,Mathumitha,Female,18 - 27,Student,Under Graduate,Pudukkottai ,Rural,Petrol,No,4,4,4,3,4,4,4,4,3,3,3,3,2,4,4,2,2,5,4,5,4,4,3,3,4,2,5
+54,T.Usharani ,Female,18 - 27,Student,Under Graduate,Pudukkottai ,Rural,Petrol,Yes,4,2,1,4,4,3,3,3,3,3,2,2,2,2,Both are same,4,3,3,3,4,4,4,1,2,4,3,2
+55,Dharshini,Female,28 - 43,Student,Post Graduate,Coimbatore ,Urban,Petrol,No,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3
+56,Gayathri ,Female,18 - 27,Self Employed,Post Graduate,Coimbatore ,Urban,Petrol,No,4,4,4,4,4,3,3,3,3,3,3,2,3,3,4,4,3,3,3,3,3,3,3,3,3,3,3
+57,Buvaneshwaran T,Male,18 - 27,Employed,Diploma,Pudukkottai,Rural,Petrol,No,4,5,3,4,4,3,4,3,4,3,4,1,3,2,4,Both are same,2,3,3,4,4,4,4,5,4,5,4
+58,Anusuya C,Female,18 - 27,Student,Under Graduate,Tenkasi,Urban,Petrol,No,3,3,3,3,4,5,4,4,1,3,5,2,3,1,Very expensive,Both are same,1,5,1,5,1,1,4,3,1,5,5
+59,Arun kumar s,Male,28 - 43,Employed,Under Graduate,Coimbatore ,Urban,Electric batteries,Yes,4,4,4,3,3,5,3,4,1,3,2,1,3,3,Both are same,2,2,1,3,3,3,3,4,4,5,5,4
+60,Prema,Female,18 - 27,Self Employed,Post Graduate,Puthukkotai,Rural,Petrol,No,4,3,3,3,3,3,4,3,3,3,4,3,3,2,2,2,3,3,3,3,3,3,4,3,3,4,4
+61,PALANISAMY S ,Male,28 - 43,Employed,Post Graduate,Namakkal,Rural,Petrol,No,3,4,4,3,2,5,4,2,3,1,1,1,4,2,Both are same,4,2,1,2,2,3,4,1,4,4,5,4
+62,Vimalraj,Male,28 - 43,Self Employed,Under Graduate,Cuddalore,Rural,Petrol,No,4,3,3,3,4,5,3,3,3,3,3,1,4,1,4,4,1,1,2,2,2,4,4,4,3,4,3
+63,VINOTHA,Female,18 - 27,Student,Post Graduate,Coimbatore ,Rural,Electric batteries,Yes,4,4,4,3,3,3,4,3,1,4,3,2,4,2,4,Both are same,3,3,4,4,4,3,3,3,4,4,4
+64,Elamathi,Female,28 - 43,Unemployed,Post Graduate,Thanjavur,Urban,Petrol,Yes,4,4,4,3,3,4,4,4,2,4,4,5,4,2,Both are same,Both are same,2,2,3,3,5,4,3,3,4,4,4
+65,MOHAMED FAISAL S,Male,18 - 27,Unemployed,Under Graduate,Pudukkottai ,Rural,Petrol,No,4,3,4,5,5,4,3,4,3,2,2,2,3,3,4,2,2,1,2,4,4,5,2,5,3,5,3
+66,Stalin Panneerselvam,Male,28 - 43,Employed,Diploma,thanjavur,Urban,Petrol,No,5,4,4,4,5,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4
+67,Pakadesh  V,Male,18 - 27,Employed,Under Graduate,Coimbatore ,Urban,Petrol,No,3,3,2,3,3,5,3,2,2,3,2,3,4,2,2,2,4,3,3,3,3,2,3,4,4,4,5
+68,Venish metillda,Female,18 - 27,Student,Post Graduate,Coimbatore ,Urban,Petrol,No,4,4,4,4,4,5,4,4,4,4,4,4,4,4,Both are same,4,4,4,4,4,4,4,4,4,4,4,4
+69,Shapa Karunya G ,Female,18 - 27,Student,Under Graduate,Coimbatore ,Urban,Petrol,No,4,4,4,4,4,5,4,4,4,4,4,4,4,4,Both are same,4,4,4,4,4,4,4,4,4,4,4,4
+70,Jeyanthi,Female,18 - 27,Self Employed,Under Graduate,Coimbatore,Urban,Diesel,No,4,3,1,3,3,3,3,3,3,3,3,3,2,3,Both are same,Both are same,3,3,3,3,3,3,4,4,3,4,3
+71,Maheshwarma ,Male,18 - 27,Student,Under Graduate,Salem ,Rural,Petrol,No,5,4,3,5,4,4,4,4,5,2,3,3,5,2,Both are same,Both are same,4,2,2,4,4,5,5,4,5,5,5
+72,Manikandan ,Male,18 - 27,Student,Post Graduate,Pudukkottai ,Rural,Petrol,No,3,3,3,3,3,5,3,3,3,4,3,2,5,2,Both are same,Both are same,3,3,3,3,3,3,4,5,5,4,3
+73,venkateswaran,Male,18 - 27,Employed,School,Pudukkottai,Urban,Petrol,No,4,4,3,2,2,1,2,2,2,2,2,2,2,2,2,Both are same,3,2,4,4,4,4,3,5,4,4,4
+74,Arun,Male,18 - 27,Student,Under Graduate,Pudukkottai ,Urban,Petrol,No,5,5,4,4,5,5,4,4,4,4,4,1,2,3,Both are same,Both are same,2,4,4,4,4,4,5,4,4,4,4
+75,Devrew,Male,18 - 27,Unemployed,Under Graduate,Thanjavur ,Rural,Petrol,No,3,4,4,4,4,4,4,4,3,2,3,2,2,3,2,2,3,3,4,4,3,3,3,4,5,5,5
+76,KANNAN.L,Male,18 - 27,Employed,Diploma,Pudukkottai ,Urban,Petrol,No,4,4,4,4,4,5,4,3,5,3,2,1,3,3,4,2,2,3,4,4,4,5,4,4,1,5,4
+77,PRABHAKARAN SP ,Male,18 - 27,Unemployed,Under Graduate,Madurai,Urban,Electric batteries,Yes,4,4,4,4,4,4,4,3,3,3,2,1,4,4,5,Both are same,3,2,4,4,3,3,3,5,5,4,5
+78,M SANJAIKUMAR ,Male,18 - 27,Student,School,Dharmapuri,Rural,Petrol,No,5,4,1,3,5,5,5,4,3,4,3,2,2,3,5,4,3,3,3,4,3,4,5,4,4,5,5
+79,Jery T,Male,18 - 27,Student,Post Graduate,Coimbatore ,Urban,Diesel,No,3,4,3,4,3,5,4,3,3,2,1,3,4,2,Both are same,Both are same,2,3,3,3,2,4,2,4,4,4,4
+80,Suba k,Female,18 - 27,Student,Under Graduate,Pudukkotai ,Rural,Petrol,No,4,4,3,4,4,5,4,4,4,3,3,3,3,1,Both are same,2,1,4,3,3,3,3,3,4,4,3,4
+81,Jayavel. R,Male,44 - 59,Employed,Post Graduate,Villupuram ,Rural,Petrol,No,4,3,3,3,4,5,4,3,3,4,4,1,4,2,Both are same,Both are same,2,3,2,3,3,4,1,1,3,3,3
+82,Gowtham m,Male,18 - 27,Student,Under Graduate,Tiruppur,Rural,Petrol,No,4,3,3,4,4,5,4,3,4,3,2,1,3,1,2,2,2,3,2,3,3,3,1,4,4,4,4
+83,Haripriya,Female,18 - 27,Student,Under Graduate,Coimbatore,Rural,Petrol,No,3,4,2,3,4,5,4,4,3,3,4,1,3,3,Both are same,Both are same,3,3,3,4,4,3,3,3,4,3,2
+84,R.S.SUBASH ,Male,18 - 27,Student,Under Graduate,Perambalur ,Rural,Petrol,No,5,4,3,3,3,5,3,4,3,3,4,2,3,3,Both are same,Both are same,3,3,3,4,2,3,3,3,2,3,2
+85,Jothi Kumari N ,Female,18 - 27,Student,Post Graduate,Coimbatore ,Urban,Petrol,No,3,3,4,4,4,5,4,4,3,3,4,3,3,4,4,Both are same,3,3,3,4,3,4,4,4,4,4,4
+86,T.inba sumitha ,Female,28 - 43,Unemployed,Post Graduate,Thenkasi,Rural,Diesel,No,5,4,3,4,5,5,5,4,3,5,5,3,3,1,Very expensive,1,4,3,3,3,3,3,5,4,4,5,5
+87,Rabin Singh.s,Male,18 - 27,Student,Post Graduate,Trichy ,Rural,Petrol,Yes,5,5,5,5,5,4,5,5,5,5,5,5,3,2,4,Both are same,1,4,5,1,4,5,5,5,5,3,5
+88,SONIGA M,Female,18 - 27,Student,School,Tiruppur ,Urban,Petrol,No,3,4,3,4,4,5,4,4,3,2,4,4,3,2,Both are same,2,3,3,3,4,2,4,3,3,4,3,4
+89,K. Kousalya,Female,18 - 27,Employed,Under Graduate,Coimbatore ,Urban,Petrol,Yes,4,4,3,4,4,5,4,4,3,4,4,1,5,2,Both are same,2,1,4,4,5,2,4,3,1,4,4,5
+90,S Dhanush ,Male,18 - 27,Student,Under Graduate,Kallakurichi ,Rural,Petrol,Yes,4,4,3,4,4,5,4,5,4,3,4,3,3,4,Both are same,Both are same,3,3,3,2,4,4,3,3,3,3,3
+91,Praveen kanth,Male,18 - 27,Unemployed,Under Graduate,Theni,Rural,Petrol,No,3,4,2,4,3,5,3,3,3,2,2,1,3,4,4,Both are same,3,3,2,3,2,3,2,4,4,4,4
+92,Manoj kumar ,Male,18 - 27,Employed,Diploma,Coimbatore ,Rural,Petrol,No,3,5,2,1,3,1,4,1,1,1,4,1,1,3,4,1,1,1,1,1,1,1,1,5,3,1,1
+93,Nithishkumar ,Male,18 - 27,Unemployed,Under Graduate,Thothukudi ,Urban,Petrol,No,2,3,2,3,4,1,2,3,2,4,3,3,2,3,4,Both are same,4,2,4,2,3,1,3,1,3,3,3
+94,Lana Leanus ,Female,18 - 27,Student,Post Graduate,Coimbatore ,Urban,Petrol,No,3,4,3,5,2,5,3,3,3,3,3,3,3,3,Both are same,Both are same,3,3,3,3,3,3,3,3,3,3,3
+95,Jamuna,Female,18 - 27,Student,Under Graduate,Coimbatore ,Urban,Petrol,No,4,4,3,4,3,3,4,4,4,4,4,3,4,4,4,Both are same,3,3,4,3,4,5,5,5,5,5,5
+96,BALASUBRAMANIYAN A,Male,28 - 43,Self Employed,Post Graduate,Pudukkottai,Rural,Petrol,No,3,3,3,3,3,3,2,3,3,2,1,1,2,1,Both are same,Both are same,2,5,3,2,3,3,3,3,3,3,3
+97,KARUPPUSAMY ,Male,18 - 27,Employed,Post Graduate,Trichy ,Urban,Electric batteries,Yes,4,4,5,4,4,5,4,4,4,4,4,4,4,2,Both are same,Both are same,3,3,4,3,4,4,3,3,4,3,3
+98,Vanishree ,Female,18 - 27,Student,Under Graduate,Coimbatore ,Rural,Petrol,No,4,3,3,4,4,5,4,4,3,3,4,3,3,3,Both are same,Both are same,3,3,4,4,3,4,3,3,3,3,3
+99,Nishanthi V,Female,18 - 27,Student,Post Graduate,Krishnagiri,Rural,Petrol,Yes,4,3,2,4,4,5,2,3,2,3,2,1,4,3,Both are same,Both are same,3,3,3,2,2,2,3,4,4,4,3
+100,Guhan P,Male,18 - 27,Employed,Under Graduate,Tiruppur ,Rural,Petrol,No,3,3,3,3,4,5,4,4,4,3,3,3,3,3,Both are same,Both are same,3,3,4,4,3,3,3,3,3,3,4
+101,Prabakaran R,Male,18 - 27,Student,Post Graduate,Kallakurichi,Urban,Petrol,No,3,3,3,3,5,5,3,3,3,3,3,4,2,2,4,2,1,4,3,3,4,3,3,2,1,1,2
+102,Geethanraj. R,Male,18 - 27,Employed,Post Graduate,Erode ,Rural,Electric batteries,Yes,5,5,4,4,5,4,5,5,5,5,5,4,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5
+103,J.MANIMUTHU,Male,18 - 27,Student,Post Graduate,Thanjavur ,Rural,Petrol,No,2,2,2,1,4,1,4,5,2,1,5,3,2,1,Very expensive,5,1,2,2,3,5,2,3,3,2,3,2
+104,Prabu R,Male,18 - 27,Student,Under Graduate,Chennai,Urban,Petrol,No,3,2,2,2,3,2,1,4,3,1,3,2,3,1,4,Both are same,3,4,3,1,3,2,3,1,1,2,3
+105,Sanjay SP ,Male,18 - 27,Student,Under Graduate,Coimbatore,Urban,Petrol,No,3,3,2,3,4,4,3,4,3,1,1,1,4,2,5,4,2,3,2,3,2,3,4,4,3,5,4
+106,Hariprasath A,Male,18 - 27,Employed,Under Graduate,Erode,Rural,Petrol,No,4,5,4,5,3,5,3,4,2,2,1,1,4,2,4,4,2,1,4,4,2,3,4,4,4,4,3
+107,Naveen k,Male,18 - 27,Student,Post Graduate,Erode,Rural,Petrol,No,2,5,3,4,2,5,3,3,2,3,2,1,2,3,4,4,3,2,3,2,2,3,4,4,3,4,3
+108,Prasanna,Male,18 - 27,Employed,Under Graduate,Erode,Rural,Petrol,No,3,3,4,4,4,3,4,3,3,3,3,2,3,3,Both are same,Both are same,3,3,3,3,3,3,3,3,3,3,3
+109,Shruthi,Female,18 - 27,Student,School,Coimbatore,Rural,Petrol,No,4,5,4,3,4,3,4,4,4,4,4,4,3,2,Both are same,2,2,3,2,2,1,2,3,3,3,4,3
+110,kavinkk019@gmail.com,Male,18 - 27,Self Employed,Doctorate,Erode,Rural,Electric batteries,No,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+111,Senthilkumar ,Male,18 - 27,Employed,Post Graduate,Erode,Urban,Electric batteries,No,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+112,Pavin m,Male,18 - 27,Student,Under Graduate,Trichy,Rural,Petrol,No,3,4,5,4,2,3,5,5,3,3,4,5,5,3,2,1,1,1,1,3,2,3,2,2,1,1,2
+113,Manju B,Female,18 - 27,Student,Post Graduate,Tiruppur,Rural,Petrol,No,4,4,4,4,4,5,4,4,4,4,4,4,4,2,Both are same,Both are same,3,3,4,4,3,4,4,4,4,4,4
+114,RESHMA.U,Female,18 - 27,Student,Under Graduate,Coimbatore,Rural,Petrol,No,4,4,2,5,5,4,5,4,5,5,2,2,3,4,4,4,4,4,3,4,4,5,2,5,4,5,5
+115,Kavin,Male,18 - 27,Student,Under Graduate,Tiruppur,Urban,Petrol,No,3,3,4,4,4,5,4,3,3,4,5,2,4,2,4,Both are same,2,2,3,3,3,4,4,4,3,5,4
+116,Dharani,Female,18 - 27,Student,Under Graduate,Coimbatore ,Rural,Diesel,No,4,3,3,3,3,3,3,3,3,3,3,3,3,3,Both are same,Both are same,3,3,3,3,3,3,3,3,3,3,3
+117,Keerthana G,Female,18 - 27,Student,Under Graduate,Tiruppur,Urban,Petrol,No,3,3,3,3,3,5,4,4,3,3,2,3,4,4,Both are same,Both are same,4,2,2,3,2,3,4,2,4,4,4
+118,Krishna,Male,28 - 43,Employed,Post Graduate,Ariyalur ,Urban,Electric batteries,Yes,4,4,4,5,5,5,4,5,5,4,4,3,4,3,5,4,4,4,5,4,4,4,4,5,5,4,5
+119,Prathap,Male,28 - 43,Employed,Diploma,Ariyalur ,Urban,Electric batteries,Yes,4,4,3,3,4,4,4,4,5,5,5,5,4,5,5,5,5,4,4,5,5,5,5,5,5,5,5
+120,Sidharth,Male,28 - 43,Employed,Under Graduate,Ariyalur ,Urban,Diesel,No,4,3,4,2,3,5,4,5,4,5,4,4,3,4,4,Both are same,4,4,3,3,4,4,4,3,3,4,4
+121,Udhit,Male,28 - 43,Employed,Under Graduate,Ariyalur ,Urban,CNG,No,4,3,3,4,4,3,4,5,5,4,5,4,4,3,4,Both are same,4,3,4,4,4,4,4,4,3,3,4
+122,Adhithya,Female,28 - 43,Employed,Post Graduate,Ariyalur,Urban,Electric batteries,Yes,4,4,4,4,4,3,3,4,4,3,4,4,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5
+123,Anjuma,Female,28 - 43,Employed,Post Graduate,Ariyalur,Urban,Petrol,No,4,4,3,3,4,3,4,4,4,3,4,3,4,4,5,5,4,4,4,5,4,4,2,4,4,4,5
+124,Karthika,Female,44 - 59,Unemployed,Under Graduate,Ariyalur,Urban,Petrol,No,4,5,4,3,4,5,5,4,4,5,2,2,5,5,5,4,4,2,3,5,3,3,1,4,5,5,5
+125,P. Vishnuram,Male,28 - 43,Employed,Under Graduate,Coimbatore ,Urban,Electric batteries,Yes,5,5,3,1,5,5,5,4,2,3,2,3,2,2,4,1,1,3,3,4,2,4,5,5,2,5,5
+126,Yogeshwaran ,Male,18 - 27,Student,Under Graduate,Coimbatore ,Urban,Petrol,No,3,3,4,3,4,2,2,3,3,3,3,3,3,3,Both are same,Both are same,3,3,3,3,3,3,3,3,3,3,3
+127,Kavin,Male,28 - 43,Employed,ITI,Thirupathur ,Urban,Electric batteries,Yes,4,4,3,4,4,4,4,4,4,4,2,2,5,3,4,Both are same,3,1,4,4,4,4,1,5,5,5,5
+128,Vinay,Male,18 - 27,Employed,Post Graduate,Thirupathur ,Urban,Petrol,No,4,3,3,3,3,5,3,4,3,4,1,1,3,3,4,Both are same,3,1,4,3,3,3,1,4,4,4,4
+129,Perumal,Male,44 - 59,Self Employed,Diploma,Thirupathur ,Rural,Petrol,No,4,4,2,4,3,3,4,2,3,4,1,1,4,3,4,Both are same,2,1,3,3,3,3,4,4,4,4,4
+130,Ajees,Male,18 - 27,Employed,Under Graduate,Thirupathur ,Urban,Petrol,No,4,3,2,3,4,5,3,3,4,3,2,1,4,3,4,2,3,1,3,3,3,3,4,4,4,4,4
+131,Alvin,Male,18 - 27,Employed,Post Graduate,Krishnagiri,Urban,Diesel,No,4,3,3,4,3,5,3,3,4,4,2,1,4,4,Both are same,4,2,1,3,3,4,3,3,4,4,4,4
+132,Karuppaiya,Male,44 - 59,Self Employed,School,Krishnagiri ,Urban,Electric batteries,Yes,4,4,4,4,5,4,4,4,4,4,2,2,4,5,5,5,4,3,4,4,5,5,5,5,5,5,5
+133,Kavitha,Female,28 - 43,Employed,Under Graduate,Krishnagiri ,Urban,Petrol,No,4,3,3,4,4,5,4,4,4,4,1,1,3,3,4,Both are same,4,1,4,4,4,4,4,4,4,4,4
+134,Santhi,Female,28 - 43,Employed,Under Graduate,Krishnagiri ,Urban,Petrol,No,4,3,4,4,4,5,4,4,4,4,1,1,4,4,Both are same,Both are same,3,2,4,4,4,4,5,5,5,5,5
+135,Thenmozhi,Female,28 - 43,Employed,Under Graduate,Krishnagiri ,Urban,Electric batteries,Yes,4,4,2,4,4,4,5,5,5,5,2,1,5,4,4,4,4,2,5,5,5,5,5,5,5,5,5
+136,Selva Priya ,Female,28 - 43,Employed,Under Graduate,Krishnagiri ,Urban,Petrol,No,4,3,3,3,3,5,3,4,4,3,1,1,5,3,Both are same,Both are same,3,2,4,3,4,3,4,4,4,5,5
+137,Nayagi,Female,28 - 43,Employed,Under Graduate,Krishnagiri ,Urban,Petrol,No,3,3,4,4,3,5,4,4,4,4,2,1,4,4,Both are same,4,4,1,4,4,3,3,4,3,4,4,4
+138,Raja,Male,18 - 27,Student,Post Graduate,Krishnagiri ,Urban,Petrol,No,4,4,2,4,4,3,4,3,4,4,1,2,4,4,4,4,3,1,4,3,4,3,3,5,5,5,5
+139,Kumar,Male,28 - 43,Self Employed,ITI,Krishnagiri ,Urban,Diesel,No,4,4,3,4,4,5,3,4,4,3,1,1,4,3,Both are same,4,4,1,4,4,5,3,5,5,5,5,5
+140,Karthi,Male,28 - 43,Student,Post Graduate,Krishnagiri,Urban,Petrol,No,4,3,3,4,3,5,4,4,4,3,2,1,4,4,Both are same,Both are same,4,1,4,3,4,3,4,4,4,4,4
+141,Ulaganadhan,Male,44 - 59,Employed,Under Graduate,Krishnagiri,Rural,Petrol,No,3,3,3,4,4,5,4,3,4,3,1,2,5,3,Both are same,4,3,1,5,5,5,4,1,5,5,5,5
+142,Akil,Male,18 - 27,Student,Under Graduate,Vellore ,Urban,Petrol,No,4,3,3,4,4,5,4,4,4,4,2,1,4,3,4,Both are same,3,1,4,4,4,3,1,5,5,5,5
+143,Velan,Male,28 - 43,Employed,Under Graduate,Vellore ,Urban,Petrol,No,3,3,3,4,3,4,2,3,4,4,1,2,4,3,4,Both are same,2,1,4,4,5,3,4,5,4,5,4
+144,Anandakumar ,Male,18 - 27,Employed,Under Graduate,Vellore,Urban,Electric batteries,Yes,4,4,4,5,4,4,4,4,5,4,2,2,5,4,4,4,3,2,5,4,4,4,1,5,5,5,5
+145,Vikram,Male,28 - 43,Employed,Under Graduate,Vellore,Urban,Electric batteries,Yes,4,4,4,4,4,4,4,4,5,5,2,2,5,4,5,4,3,1,5,4,4,4,1,5,5,5,5
+146,Vijay,Male,28 - 43,Employed,Post Graduate,Vellore,Urban,Diesel,No,4,3,3,4,3,4,3,3,5,4,2,2,5,3,4,Both are same,3,1,4,4,3,3,1,5,5,5,5
+147,Dhuruvan,Male,18 - 27,Employed,Under Graduate,Vellore,Urban,Petrol,No,4,3,3,4,3,4,3,3,4,4,2,2,4,3,4,4,3,1,4,4,3,3,2,5,5,4,5
+148,Ravi,Male,28 - 43,Employed,Under Graduate,Vellore,Urban,Petrol,No,4,3,3,4,3,4,3,3,4,4,2,1,4,3,4,Both are same,3,2,4,4,3,3,1,5,5,5,4
+149,Vishal,Male,28 - 43,Employed,Under Graduate,Vellore ,Urban,Petrol,No,4,3,3,3,3,3,3,3,5,4,2,2,4,4,4,4,3,1,4,4,3,3,1,5,4,5,4
+150,Vishnu,Male,18 - 27,Student,Post Graduate,Vellore ,Urban,Petrol,No,4,3,4,3,3,4,5,4,5,4,1,1,4,3,4,Both are same,3,2,4,3,3,3,1,5,5,5,4
+151,Rahul,Male,28 - 43,Employed,Under Graduate,Vellore ,Urban,Petrol,No,4,3,3,3,3,4,2,4,4,4,1,1,4,3,4,Both are same,4,1,5,4,3,3,1,5,5,5,5
+152,Ponvannan,Male,28 - 43,Self Employed,Diploma,Vellore ,Urban,Petrol,No,2,3,3,4,3,4,2,3,4,4,1,1,4,3,4,Both are same,3,1,5,4,3,3,1,5,5,5,5
+153,Varun Kumar ,Male,18 - 27,Employed,Under Graduate,Vellore,Urban,Petrol,No,4,3,3,3,3,4,3,3,4,4,2,1,4,3,4,Both are same,3,1,4,4,3,3,1,5,5,5,5
+154,Udhayakumar,Male,28 - 43,Employed,Under Graduate,Vellore,Rural,Petrol,No,3,3,3,4,3,4,3,4,4,4,2,1,4,3,4,Both are same,3,1,4,4,3,3,1,5,4,5,4
+155,JEYAPANDI R,Male,18 - 27,Employed,Under Graduate,Theni,Urban,Petrol,No,4,4,3,4,4,4,4,3,3,3,2,1,3,2,4,2,3,3,3,4,3,3,3,4,3,4,4
+156,Kalaiyarasan,Male,28 - 43,Employed,Under Graduate,Erode,Urban,Petrol,No,4,3,3,4,3,4,3,4,4,4,2,2,4,4,4,Both are same,3,1,4,4,5,3,2,5,5,5,5
+157,Lakshmanan,Male,18 - 27,Employed,Under Graduate,Erode,Urban,Petrol,No,4,4,3,4,3,5,4,4,4,4,2,1,4,4,4,4,3,2,4,4,4,3,1,4,5,4,4
+158,Sampath,Male,28 - 43,Employed,Under Graduate,Ariyalur,Urban,Petrol,No,4,4,3,4,3,4,3,4,5,4,2,1,4,3,4,Both are same,3,1,4,4,4,3,1,5,5,5,5
+159,Deva,Male,18 - 27,Employed,Under Graduate,Ariyalur,Urban,Petrol,No,4,4,3,4,3,5,3,3,4,4,1,1,4,4,4,4,3,2,4,4,4,3,1,5,5,5,4
+160,Sivakumar,Male,28 - 43,Employed,Diploma,Ariyalur,Urban,Petrol,No,4,3,4,4,3,5,3,4,4,4,2,1,4,4,4,Both are same,3,2,4,4,4,3,4,5,5,4,5
+161,Mugilan,Male,18 - 27,Student,Under Graduate,Thanjavur,Rural,Petrol,No,4,3,3,4,4,5,3,3,4,3,2,2,4,4,Both are same,Both are same,4,1,4,4,4,3,4,5,4,5,5
+162,Suseendhran,Male,18 - 27,Student,Post Graduate,Thanjavur,Urban,Petrol,No,4,3,4,3,4,4,4,4,4,4,1,1,4,4,4,Both are same,3,1,4,4,3,3,1,5,5,5,4
+163,Mahendhiran,Male,18 - 27,Student,Post Graduate,Thanjavur ,Urban,Petrol,No,4,3,4,4,4,5,4,4,4,4,1,1,4,4,Both are same,4,3,1,4,4,3,4,1,5,5,5,5
+164,Poongodi,Female,28 - 43,Employed,School,Thanjavur ,Urban,Petrol,No,4,3,4,4,3,5,3,3,4,4,1,1,4,4,4,Both are same,3,1,4,4,4,3,1,4,5,5,5
+165,Thanikkodi,Male,28 - 43,Self Employed,School,Thanjavur,Urban,Petrol,No,4,3,4,4,3,5,4,4,4,3,1,1,4,4,4,Both are same,3,1,4,4,4,3,1,5,5,5,4
+166,Karthika A,Female,18 - 27,Student,Under Graduate,Tiruvarur,Urban,Petrol,No,3,4,4,4,3,5,5,4,4,4,1,1,4,5,4,4,3,1,4,5,4,3,5,5,5,5,5
+167,Kamal,Male,28 - 43,Employed,Under Graduate,Tiruvarur,Urban,Petrol,No,4,3,4,4,3,4,4,4,5,4,1,1,4,3,4,Both are same,3,1,4,4,4,3,4,4,5,5,5
+168,Sivaji,Male,44 - 59,Self Employed,School,Tiruvarur ,Urban,Petrol,No,4,3,3,4,3,5,4,3,4,4,1,1,4,4,4,Both are same,3,1,4,4,4,3,1,4,5,5,5
+169,Ramachandhiran,Male,28 - 43,Employed,Diploma,Tiruvarur ,Urban,Petrol,No,4,3,4,4,4,4,4,4,5,4,1,1,4,4,Both are same,Both are same,4,1,4,5,4,3,1,5,4,5,4
+170,Nagesh,Male,28 - 43,Employed,School,Tiruvarur,Urban,Petrol,No,4,4,3,4,4,5,3,4,5,4,1,1,4,4,4,Both are same,3,1,5,4,4,3,1,5,5,5,5
+171,Surya barathi,Male,28 - 43,Employed,School,Tiruvarur,Urban,Petrol,No,4,3,2,4,4,5,3,4,5,4,2,1,4,3,4,4,3,2,4,4,3,3,1,5,4,5,4
+172,Subha,Female,28 - 43,Unemployed,Under Graduate,Tiruvarur,Urban,Petrol,No,4,3,3,3,3,5,3,4,5,4,2,1,1,4,4,Both are same,3,1,4,4,3,3,1,5,5,5,4
+173,Thangaraj,Male,18 - 27,Employed,Under Graduate,Tiruvarur,Urban,Electric batteries,Yes,4,4,4,4,5,4,4,4,5,5,2,2,5,4,4,Both are same,4,1,5,5,4,4,1,5,5,5,5
+174,Bala,Male,18 - 27,Student,Under Graduate,Tiruvarur ,Urban,Electric batteries,Yes,4,4,4,5,4,4,4,5,5,5,2,2,5,4,4,4,4,1,5,4,4,4,1,5,5,5,5
+175,Mani,Male,18 - 27,Student,Under Graduate,Tiruvarur ,Urban,Petrol,No,4,3,4,4,3,5,3,4,5,4,2,1,4,4,4,4,4,1,4,4,3,3,4,5,4,5,4
+176,Rishikeshav ,Male,18 - 27,Student,Under Graduate,Viruthachalam ,Rural,Petrol,No,4,4,3,3,3,2,3,2,2,2,3,1,2,1,5,1,1,4,4,3,2,2,3,2,4,2,3
+177,Kaviya,Female,18 - 27,Student,Under Graduate,Erode,Urban,Petrol,No,4,4,4,3,4,5,3,4,3,3,3,2,3,3,Both are same,Both are same,2,3,4,3,3,3,4,3,3,3,5
+178,Kalaimathi.V ,Female,18 - 27,Unemployed,Under Graduate,Erode ,Rural,Petrol,No,4,4,3,5,4,4,4,4,4,4,3,2,4,3,4,4,3,3,3,3,3,4,4,4,3,4,3
+179,Srikanth,Male,18 - 27,Employed,Under Graduate,Tamil nadu,Urban,Petrol,No,3,3,3,4,3,3,3,3,4,3,2,2,3,3,Both are same,Both are same,3,2,2,4,3,4,4,4,4,5,4
+180,Arunkumar G ,Male,18 - 27,Employed,Under Graduate,Salem,Urban,Petrol,No,4,4,4,4,4,5,4,4,4,3,3,3,3,3,4,Both are same,2,3,3,4,4,4,4,4,5,5,4
+181,Senthilkumar,Male,18 - 27,Unemployed,Under Graduate,Salem,Rural,Petrol,No,4,3,4,5,3,4,4,3,4,2,1,1,4,3,4,Both are same,2,2,3,3,4,4,5,5,4,5,5
+182,Chitra Banu G,Female,18 - 27,Student,Under Graduate,Nilgiris ,Urban,Diesel,No,4,4,3,4,4,5,4,4,4,3,2,2,3,2,Both are same,2,2,3,2,3,3,3,3,4,2,4,3
+183,Gopi,Male,18 - 27,Employed,Under Graduate,Salem,Urban,Electric batteries,Yes,4,4,4,4,4,5,4,4,5,5,2,2,5,3,5,4,3,2,5,4,4,4,1,5,5,5,5
+184,Ramkumar,Male,28 - 43,Employed,School,Salem,Urban,Petrol,No,4,3,4,3,3,4,3,4,4,4,1,1,4,3,4,Both are same,3,2,4,4,3,3,1,5,5,5,4
+185,Vaisnavi,Female,18 - 27,Employed,Under Graduate,Salem,Urban,Petrol,No,4,3,3,4,3,5,3,4,5,4,1,1,4,3,5,4,4,2,4,4,3,3,1,5,5,5,4
+186,Pavithra devi,Female,28 - 43,Unemployed,Under Graduate,Salem,Urban,Petrol,No,4,3,3,4,3,4,5,4,4,3,2,1,4,2,4,Both are same,3,2,4,4,3,3,1,5,5,5,5
+187,Ponraj,Male,28 - 43,Employed,Post Graduate,Salem,Rural,Petrol,No,3,3,3,4,3,4,3,4,4,3,1,2,4,4,4,4,3,1,4,4,4,3,1,5,4,4,4
+188,Silambarasan,Male,28 - 43,Employed,Under Graduate,Salem,Rural,Petrol,No,3,4,4,4,3,5,3,3,4,4,1,1,4,3,4,Both are same,3,2,3,4,3,3,1,5,4,5,5
+189,Mohan,Male,28 - 43,Employed,Under Graduate,Salem,Urban,Petrol,No,3,4,4,4,3,4,2,4,5,4,2,1,4,4,4,4,4,2,4,3,3,3,1,5,4,5,5
+190,Nikesh,Male,18 - 27,Student,Post Graduate,Trichy ,Urban,Petrol,No,4,4,4,4,4,4,2,4,4,4,2,1,4,3,5,4,3,2,4,4,3,3,1,5,4,4,4
+191,Yoswa,Male,18 - 27,Student,Under Graduate,Trichy,Urban,Petrol,Yes,4,5,4,5,4,5,4,4,4,4,2,2,5,3,4,Both are same,3,1,5,4,3,4,1,5,5,5,5
+192,Udhay,Male,18 - 27,Student,Under Graduate,Trichy,Urban,Petrol,No,3,4,4,4,4,5,4,3,3,4,1,1,4,4,Both are same,Both are same,4,1,4,4,4,4,2,5,4,4,5
+193,Madhavan,Male,18 - 27,Employed,Under Graduate,Trichy,Urban,Petrol,No,4,3,3,4,3,3,2,3,4,4,2,2,4,4,Both are same,2,2,1,4,4,2,3,1,4,4,5,5
+194,Barath,Male,18 - 27,Student,Post Graduate,Trichy,Rural,Petrol,No,4,3,3,4,3,5,4,3,4,3,1,1,5,3,4,4,3,2,3,4,3,3,1,5,4,4,5
+195,Harini,Female,18 - 27,Employed,Under Graduate,Trichy ,Urban,Petrol,No,3,3,4,3,3,4,3,3,4,4,2,2,4,3,5,Both are same,3,2,4,3,3,3,1,5,5,5,5
+196,Karuppaiya ,Male,28 - 43,Employed,Diploma,Tiruppur,Urban,Petrol,No,4,4,4,5,3,4,3,3,4,5,2,1,5,3,5,Both are same,3,1,4,3,3,3,1,5,5,5,5
+197,Vishal,Male,18 - 27,Employed,Under Graduate,Tiruppur,Urban,Electric batteries,Yes,4,4,4,5,4,4,4,4,5,5,2,2,5,4,4,Both are same,3,2,5,5,3,4,1,5,5,5,5
+198,Nivedha,Female,18 - 27,Employed,Post Graduate,Tiruppur,Urban,Petrol,No,4,4,3,3,3,4,3,4,5,5,1,1,5,3,4,Both are same,3,1,4,4,3,3,1,5,5,5,5
+199,Xavier ,Male,18 - 27,Employed,Under Graduate,Tiruppur,Urban,Petrol,No,2,4,3,5,2,4,2,3,4,4,1,1,4,3,5,Both are same,3,1,5,4,3,3,1,5,5,5,5
+200,S.Gangaiarasan,Male,44 - 59,Employed,Post Graduate,Pudukkottai,Rural,Petrol,No,2,3,3,2,2,1,3,3,1,2,1,2,4,3,4,4,2,1,2,2,1,2,1,4,4,4,3
